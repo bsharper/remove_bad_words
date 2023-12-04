@@ -1,0 +1,11 @@
+*.webm
+*.mp3
+*.mp4
+*.wav
+*.opus
+*.srt
+*.json
+*.txt
+*.txt.gz
+__pycache__
+node_modules
